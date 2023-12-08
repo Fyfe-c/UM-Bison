@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Data loading and preprocessing
-df = pd.read_csv('./Data/updated_weather_data_with_states.csv')
+df = pd.read_csv('./updated_weather_data_with_states.csv')
 
 # Dropping non-numeric columns and columns with a large number of missing values
 columns_to_drop = ['name', 'solarradiation', 'solarenergy', 'uvindex', 'severerisk', 'snow']

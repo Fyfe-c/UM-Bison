@@ -8,7 +8,7 @@ from keras.layers import LSTM, Dense, Dropout
 from sklearn.metrics import classification_report, confusion_matrix
 
 # Data loading and preprocessing
-df = pd.read_csv('./Data/updated_weather_data_with_states.csv')
+df = pd.read_csv('./updated_weather_data_with_states.csv')
 # df = pd.read_csv('./Data/Data/Test.csv')
 
 # Dropping non-numeric columns and columns with a large number of missing values
