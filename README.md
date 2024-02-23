@@ -1,6 +1,6 @@
 # Enhancing Tornado Forecasting through Machine Learning: A Collaborative Project
 
-### Author: Bianfeng Fan, Xinglong Shu, Zhihao Wang, Harry Pu
+### Author: Fengfan Bian, Xinglong Shu, Zhihao Wang, Harry Pu
  
 #### Introduction
 Presented by the "UM BISON" group, this project, titled "Forecasting Tornadoes: Improving Prediction Accuracy," aims to revolutionize tornado forecasting in Canada using a machine learning approach. Acknowledging the severe impacts of tornadoes, both human and economic, the project underscores the limitations of current warning systems and the urgent need for accurate, timely predictions. Inspired by a personal account of tornado devastation, the team focuses on leveraging comprehensive U.S. tornado data and advanced machine learning algorithms.
